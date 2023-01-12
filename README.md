@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://i2.wp.com/i.giphy.com/media/26tn33aiTi1jkl6H6/giphy-downsized.gif?w=770&ssl=1">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyoul&label=Profile%20views&color=0e75b6&style=flat" alt="eyoul" /> </p>
 
-<p align="left"> <a href="https://twitter.com/joel746425061" target="blank"><img src="https://img.shields.io/twitter/follow/joel746425061?logo=twitter&style=for-the-badge" alt="joel746425061" /></a> </p>
+<p align="left"> <a href="https://"https://twitter.com/PH_first_coder" target="blank"><img src=""https://twitter.com/PH_first_code /></a> </p>
 
 - 🔭 I’m currently working on **AirBnB clone**
 
