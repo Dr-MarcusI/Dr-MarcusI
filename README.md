@@ -27,6 +27,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dr-MarcusI&show_icons=true&locale=en" alt="eyoul" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DrMarcusI&" alt="eyoul" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DrMarcusI&" alt="Dr-MarcusI" /></p>
 
 No README.md, .gitignore, or license
