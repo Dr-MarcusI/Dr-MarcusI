@@ -1,7 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Dr Marcus Imagwe from Nigeria that Transit oil and gas engineering to software Engineering
- An industrious Physicst & Computer Scientist, Certified Scrum Master,
- Project Engineer, Asset Engineer, Data Engineer, Environmental Engineer, and a First class degree computer scientist from the University of the People, Software Engineer (IBM FULL STACK DEVELOPER)</h1>
+<h1 align="center">Hi 👋, I'm Dr Marcus Imagwe from Nigeria that transit from oil and gas engineering to software Engineering An industrious Physicst & Computer Scientist, Certified Scrum Master, Project Engineer, Asset Engineer, Data Engineer, Environmental Engineer, and a First class degree computer scientist from the University of the People, Software Engineer (IBM FULL STACK DEVELOPER)</h1>
 <h3 align="center">A passionate full stack developer from Nigeria</h3>
 <img align="right" alt="coding" width="400" src="https://i2.wp.com/i.giphy.com/media/26tn33aiTi1jkl6H6/giphy-downsized.gif?w=770&ssl=1">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyoul&label=Profile%20views&color=0e75b6&style=flat" alt="eyoul" /> </p>
